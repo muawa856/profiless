@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profiless/static/css/main.a617e044.chunk.css",
+    "main.js": "/profiless/static/js/main.b7bf4954.chunk.js",
+    "main.js.map": "/profiless/static/js/main.b7bf4954.chunk.js.map",
+    "runtime-main.js": "/profiless/static/js/runtime-main.f2247073.js",
+    "runtime-main.js.map": "/profiless/static/js/runtime-main.f2247073.js.map",
+    "static/js/2.6ad46a83.chunk.js": "/profiless/static/js/2.6ad46a83.chunk.js",
+    "static/js/2.6ad46a83.chunk.js.map": "/profiless/static/js/2.6ad46a83.chunk.js.map",
+    "static/js/3.be1d33fc.chunk.js": "/profiless/static/js/3.be1d33fc.chunk.js",
+    "static/js/3.be1d33fc.chunk.js.map": "/profiless/static/js/3.be1d33fc.chunk.js.map",
+    "index.html": "/profiless/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/profiless/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.6ad46a83.chunk.js.LICENSE.txt": "/profiless/static/js/2.6ad46a83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2247073.js",
+    "static/js/2.6ad46a83.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b7bf4954.chunk.js"
+  ]
+}
